@@ -1,2 +1,2 @@
-# This is a mistake!
-Something broke! Oh no!
+# README
+This is my first repository!
